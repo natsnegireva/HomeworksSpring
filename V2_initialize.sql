@@ -1,0 +1,23 @@
+create table products (id bigserial primary key, title varchar(255), price int);
+insert into products (title, price) values
+('pencil', 12),
+('pen', 16),
+('ruler', 14),
+('notebook', 23),
+('Notepad', 21),
+('paints', 25),
+('ink', 54),
+('pencil case', 23),
+('cover', 10),
+('briefcase', 13),
+('textbook', 12),
+('paper', 17),
+('eraser', 14),
+('band', 9),
+('clips', 2),
+('buttons', 5),
+('bookmark', 23),
+('stand', 21),
+('gloves', 27),
+('mask', 9),
+('napkins', 19);
