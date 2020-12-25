@@ -12,7 +12,7 @@ insert into products (title, price) values
 ('briefcase', 13),
 ('textbook', 12),
 ('paper', 17),
-('eraser', 14),
+('eraser', 15),
 ('band', 9),
 ('clips', 2),
 ('buttons', 5),
